@@ -494,7 +494,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39296|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -510,7 +510,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PVHR|39297|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -526,7 +526,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "1"
     },
     "PVHR|39298|20260720|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
@@ -542,7 +542,7 @@
       "date": "20260720",
       "cat": "CLASSIC",
       "price": "61.74",
-      "status": "3"
+      "status": "2"
     },
     "PBRM|22301|20260720|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -558,7 +558,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "0"
     },
     "PBRM|22302|20260720|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -574,7 +574,7 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "3"
+      "status": "0"
     },
     "PBRM|22303|20260720|ELITE": {
       "venue": "PVR: Perambur, Spectrum Mall",
@@ -590,7 +590,55 @@
       "date": "20260720",
       "cat": "BUDGET",
       "price": "61.74",
+      "status": "0"
+    },
+    "FMCN|103427|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
       "status": "3"
+    },
+    "FMCN|103427|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "12:10 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
+    },
+    "FMCN|103429|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103429|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "06:35 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
+    },
+    "FMCN|103413|20260720|SILVER": {
+      "venue": "INOX National: Arcot Road",
+      "time": "10:30 PM",
+      "date": "20260720",
+      "cat": "SILVER",
+      "price": "210.98",
+      "status": "3"
+    },
+    "FMCN|103413|20260720|PREMIERE": {
+      "venue": "INOX National: Arcot Road",
+      "time": "10:30 PM",
+      "date": "20260720",
+      "cat": "PREMIERE",
+      "price": "66.74",
+      "status": "2"
     }
   },
   "dates": {
