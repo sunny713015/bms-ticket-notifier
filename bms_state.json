@@ -1,5 +1,21 @@
 {
   "shows": {
+    "PCAN|41977|20260726|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "04:30 PM",
+      "date": "20260726",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41977|20260726|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "04:30 PM",
+      "date": "20260726",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
+    },
     "PVES|31879|20260726|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "06:55 PM",
@@ -16,22 +32,6 @@
       "price": "61.74",
       "status": "2"
     },
-    "PABC|20345|20260726|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "04:05 PM",
-      "date": "20260726",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PABC|20345|20260726|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "04:05 PM",
-      "date": "20260726",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "3"
-    },
     "PVSR|26115|20260726|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "04:35 PM",
@@ -45,22 +45,6 @@
       "time": "04:35 PM",
       "date": "20260726",
       "cat": "BUDGET",
-      "price": "61.74",
-      "status": "3"
-    },
-    "PCAN|41977|20260726|PRIME": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "04:30 PM",
-      "date": "20260726",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "3"
-    },
-    "PCAN|41977|20260726|CLASSIC": {
-      "venue": "PVR: VR Chennai, Anna Nagar",
-      "time": "04:30 PM",
-      "date": "20260726",
-      "cat": "CLASSIC",
       "price": "61.74",
       "status": "3"
     }
