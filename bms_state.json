@@ -47,6 +47,22 @@
       "cat": "BUDGET",
       "price": "61.74",
       "status": "3"
+    },
+    "PCAN|41977|20260726|PRIME": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "04:30 PM",
+      "date": "20260726",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PCAN|41977|20260726|CLASSIC": {
+      "venue": "PVR: VR Chennai, Anna Nagar",
+      "time": "04:30 PM",
+      "date": "20260726",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "3"
     }
   },
   "dates": {
