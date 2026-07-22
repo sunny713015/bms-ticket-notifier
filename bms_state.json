@@ -6,7 +6,7 @@
       "date": "20260726",
       "cat": "PRIME",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PCAN|41977|20260726|CLASSIC": {
       "venue": "PVR: VR Chennai, Anna Nagar",
@@ -32,13 +32,29 @@
       "price": "61.74",
       "status": "2"
     },
+    "PABC|20345|20260726|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "04:05 PM",
+      "date": "20260726",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "2"
+    },
+    "PABC|20345|20260726|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "04:05 PM",
+      "date": "20260726",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
     "PVSR|26115|20260726|ELITE": {
       "venue": "PVR: Sathyam, Royapettah",
       "time": "04:35 PM",
       "date": "20260726",
       "cat": "ELITE",
       "price": "210.98",
-      "status": "3"
+      "status": "2"
     },
     "PVSR|26115|20260726|BUDGET": {
       "venue": "PVR: Sathyam, Royapettah",
