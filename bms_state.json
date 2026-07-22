@@ -1,5 +1,21 @@
 {
   "shows": {
+    "PVES|31879|20260726|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:55 PM",
+      "date": "20260726",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "3"
+    },
+    "PVES|31879|20260726|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:55 PM",
+      "date": "20260726",
+      "cat": "BUDGET",
+      "price": "61.74",
+      "status": "2"
+    },
     "PABC|20345|20260726|PRIME": {
       "venue": "PVR: Aerohub, Chennai",
       "time": "04:05 PM",
@@ -16,21 +32,21 @@
       "price": "61.74",
       "status": "3"
     },
-    "PVES|31879|20260726|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:55 PM",
+    "PVSR|26115|20260726|ELITE": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "04:35 PM",
       "date": "20260726",
       "cat": "ELITE",
       "price": "210.98",
       "status": "3"
     },
-    "PVES|31879|20260726|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:55 PM",
+    "PVSR|26115|20260726|BUDGET": {
+      "venue": "PVR: Sathyam, Royapettah",
+      "time": "04:35 PM",
       "date": "20260726",
       "cat": "BUDGET",
       "price": "61.74",
-      "status": "2"
+      "status": "3"
     }
   },
   "dates": {
