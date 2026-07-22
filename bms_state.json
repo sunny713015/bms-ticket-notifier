@@ -48,22 +48,6 @@
       "price": "61.74",
       "status": "2"
     },
-    "PABC|20345|20260726|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "04:05 PM",
-      "date": "20260726",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PABC|20345|20260726|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "04:05 PM",
-      "date": "20260726",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "2"
-    },
     "PVHC|30325|20260726|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "04:10 PM",
@@ -79,10 +63,25 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "3"
+    },
+    "PABC|20345|20260726|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "04:05 PM",
+      "date": "20260726",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "2"
+    },
+    "PABC|20345|20260726|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "04:05 PM",
+      "date": "20260726",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
     }
   },
   "dates": {
-    "20260722": "AVAILABLE",
     "20260723": "AVAILABLE",
     "20260724": "AVAILABLE",
     "20260725": "AVAILABLE",
