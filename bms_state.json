@@ -32,22 +32,6 @@
       "price": "61.74",
       "status": "3"
     },
-    "PVES|31879|20260726|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:55 PM",
-      "date": "20260726",
-      "cat": "ELITE",
-      "price": "210.98",
-      "status": "2"
-    },
-    "PVES|31879|20260726|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "06:55 PM",
-      "date": "20260726",
-      "cat": "BUDGET",
-      "price": "61.74",
-      "status": "2"
-    },
     "PVHC|30325|20260726|PRIME": {
       "venue": "PVR: Ampa Mall, Nelson Manickam Road",
       "time": "04:10 PM",
@@ -77,6 +61,22 @@
       "time": "04:05 PM",
       "date": "20260726",
       "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "2"
+    },
+    "PVES|31879|20260726|ELITE": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:55 PM",
+      "date": "20260726",
+      "cat": "ELITE",
+      "price": "210.98",
+      "status": "2"
+    },
+    "PVES|31879|20260726|BUDGET": {
+      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
+      "time": "06:55 PM",
+      "date": "20260726",
+      "cat": "BUDGET",
       "price": "61.74",
       "status": "2"
     }
