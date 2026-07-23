@@ -32,6 +32,22 @@
       "price": "61.74",
       "status": "2"
     },
+    "PABC|20345|20260726|PRIME": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "04:05 PM",
+      "date": "20260726",
+      "cat": "PRIME",
+      "price": "210.98",
+      "status": "1"
+    },
+    "PABC|20345|20260726|CLASSIC": {
+      "venue": "PVR: Aerohub, Chennai",
+      "time": "04:05 PM",
+      "date": "20260726",
+      "cat": "CLASSIC",
+      "price": "61.74",
+      "status": "1"
+    },
     "PVES|31879|20260726|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "06:55 PM",
@@ -79,31 +95,15 @@
       "cat": "CLASSIC",
       "price": "61.74",
       "status": "3"
-    },
-    "PABC|20345|20260726|PRIME": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "04:05 PM",
-      "date": "20260726",
-      "cat": "PRIME",
-      "price": "210.98",
-      "status": "1"
-    },
-    "PABC|20345|20260726|CLASSIC": {
-      "venue": "PVR: Aerohub, Chennai",
-      "time": "04:05 PM",
-      "date": "20260726",
-      "cat": "CLASSIC",
-      "price": "61.74",
-      "status": "1"
     }
   },
   "dates": {
-    "20260723": "AVAILABLE",
     "20260724": "AVAILABLE",
     "20260725": "AVAILABLE",
     "20260726": "BOOKABLE",
     "20260727": "AVAILABLE",
     "20260728": "AVAILABLE",
-    "20260729": "AVAILABLE"
+    "20260729": "AVAILABLE",
+    "20260730": "NOT_OPEN"
   }
 }
